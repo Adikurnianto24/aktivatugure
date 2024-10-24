@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "255186363486",
+    "project_id": "aktivatugure",
+    "storage_bucket": "aktivatugure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255186363486:android:8249e912294cef8a4ac0cf",
+        "android_client_info": {
+          "package_name": "com.aktivatugure.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqqaXFAKJA3KyydIu2VGEwTflMzKdoBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255186363486:android:528f69266b3d532c4ac0cf",
+        "android_client_info": {
+          "package_name": "com.aktivatugure.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqqaXFAKJA3KyydIu2VGEwTflMzKdoBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255186363486:android:8c15fed46a8692304ac0cf",
+        "android_client_info": {
+          "package_name": "com.aktivatugure.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqqaXFAKJA3KyydIu2VGEwTflMzKdoBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

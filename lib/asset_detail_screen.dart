@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'models/asset_details/komputer/laptop_detail.dart';
+import 'asset_detail.dart';
 
 class AssetDetailScreen extends StatefulWidget {
   final String assetType;
@@ -180,7 +180,7 @@ class _AssetDetailScreenState extends State<AssetDetailScreen> {
           Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => LaptopDetail(assetId: assetInfo.subtitle),
+              builder: (context) => AssetDetail(assetId: assetInfo.subtitle),
             ),
           );
         },
